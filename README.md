@@ -1,1 +1,1 @@
-This is really not a demo project
+End to end test in progress
