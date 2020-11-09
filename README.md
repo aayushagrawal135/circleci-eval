@@ -1,1 +1,1 @@
-Test if builds go as webhooks or per push: part 2.2
+Test if builds has scm info enriched in them
